@@ -8,11 +8,10 @@ export default function Index() {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
-        
       }}
     >
-      <ThemedText type="title">Home Page</ThemedText>
-      <ThemedText type="subtitle">This is the home page</ThemedText>
+      <ThemedText type="title">Favorites Page</ThemedText>
+      <ThemedText type="subtitle">This is the favorites page</ThemedText>
     </View>
   );
 }
